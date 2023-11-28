@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/profile.jpeg"
+profile_picture = "profile.jpeg"
 about_me = "I'm a first-year Electrical Engineering student at Georgia Tech, eager to explore and contribute to the field of technology."
 
 
@@ -48,7 +48,7 @@ experience_data = {
             "- Applied principles of physics to predict and analyze flight dynamics",
             "- Utilized advanced mathematics to calculate trajectories, fuel requirements, and structural loads"
         ],
-        "images/lampodshausen.png"
+        "lampodshausen.png"
     ),
     "Co-Researcher: Self-Sufficient Home Project": (
         [
